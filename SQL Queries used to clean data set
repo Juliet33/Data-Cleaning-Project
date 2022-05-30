@@ -1,6 +1,7 @@
 ---Cleaning Data in SQL
 
 
+
 ---Select the database and the table
 Select *
 From Portfolioproject.dbo.Nashville_Housing
